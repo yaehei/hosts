@@ -269,6 +269,7 @@
 173.194.68.101    research.google.com
 173.194.68.101    santatracker.google.com
 173.194.68.101    services.google.com
+173.194.68.101    security.google.com
 173.194.68.101    sites.google.com
 173.194.68.101    support.google.com
 173.194.68.101    translate.google.com
@@ -688,6 +689,12 @@
 64.233.171.100    code.google.com
 
 ### clients.l.google.com
+64.233.171.101    client1.google.com
+64.233.171.101    client2.google.com
+64.233.171.101    client3.google.com
+64.233.171.101    client4.google.com
+64.233.171.101    client5.google.com
+
 64.233.171.100    clients1.google.com
 64.233.171.100    clients2.google.com
 64.233.171.100    clients3.google.com
@@ -877,6 +884,15 @@ video.google.com
 173.194.68.19    gmail.com
 173.194.68.19    m.gmail.com
 173.194.68.19    m.googlemail.com
+
+### gmail-imap.l.google.com
+173.194.65.108    imap.gmail.com
+
+### gmail-pop.l.google.com
+173.194.65.108    pop.gmail.com
+
+### gmail-smtp-msa.l.google.com
+173.194.65.108    smtp.gmail.com
 
 ### news.l.google.com
 64.233.171.101    news.google.com
